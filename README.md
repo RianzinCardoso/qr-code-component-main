@@ -9,7 +9,8 @@ Objetivo:
 ![desktop-design](https://github.com/RianzinCardoso/qr-code-component-main/assets/132966585/7c5dc394-bc43-47f5-bed1-dfcdb5cae89f)
 
 Resultado:
-![Resultado](https://github.com/RianzinCardoso/qr-code-component-main/assets/132966585/c68f2a48-a689-4d01-9cfb-91efd5f18959)
+![Resultado](https://github.com/RianzinCardoso/qr-code-component-main/assets/132966585/1fd1e56f-d181-4ab2-96a1-56edc684632d)
+
 
 Feito com:
 - Semantic HTML5 markup
